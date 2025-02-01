@@ -1,4 +1,3 @@
-/* eslint-disable no-param-reassign, operator-assignment */
 
 class ProductList extends React.Component {
   state = {
